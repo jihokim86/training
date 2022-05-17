@@ -4,7 +4,7 @@ public class RankStudent {
 
 	public static void main(String[] args) {
 		//등수구하기
-		int[] scores = {98,70,45,60,83};
+		int[] scores = {70,98,45,60,83};
 		
 		int myRank[] = new int[5];
 		

@@ -6,19 +6,20 @@ public class ScoresStudent {
 		//점수 98,70,45,60,83
 		//1. 총점 2.평균 3.최고점수 4.최저점수
 		
-		 int[] scores = {98,70,45,60,83};
+		 int[] scores = {70,98,45,60,83};
 		 int sum=0;
 		 int max=0;
-		 int min=100; // min =scores[0] 0의 배열값을 넣어줌.
+		 int min=scores[0]; // min =scores[0] 0의 배열값을 넣어줌.
 		 
 		 for(int i=0;i<scores.length;i++) {
-			 sum += scores[i];
-			 if(scores[i]>max) {
-				 max= scores[i];
-			 }
-			 if(scores[i]<min) {
-				 min = scores[i];
-			 }
+			sum += scores[i];
+			
+			if(scores[i]>max) {
+				max = scores[i];
+			}
+			if(scores[i]<min) {
+				min = scores[i];
+			}
 		 }
 		 double avg = (double)sum/scores.length;
 		 
