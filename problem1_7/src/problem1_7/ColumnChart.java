@@ -1,6 +1,5 @@
 package problem1_7;
 
-import java.util.Random;
 import java.util.Scanner;
 
 public class ColumnChart {
@@ -14,6 +13,7 @@ public class ColumnChart {
 		System.out.print("¿ä¼Ò¼ö : ");
 		int e = input.nextInt();
 		int[] num = new int[e];
+		
 		
 		for(int i=0; i<num.length ;i++) {
 			num[i]=(int)(Math.random()*10);

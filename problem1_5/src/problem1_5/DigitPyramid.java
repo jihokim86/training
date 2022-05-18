@@ -24,7 +24,7 @@ public class DigitPyramid {
 				System.out.print(h);
 			}
 			h++;
-			if(h==10) {
+			if(h==10) { //20이 넘어가면 안될줄 알았는데? 되느니거같은데
 				h=0;
 			}
 			System.out.println();
