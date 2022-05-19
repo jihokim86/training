@@ -62,9 +62,9 @@ public class TotalStudent {
 					grade = 'F'; 
 				}
 			
-			// System.out.printf("%d %c",(i+1),nameStudent[i]);// 왜 안될까?
+			 //System.out.printf("%d%c",(i+1),nameStudent[i]);// 왜 안될까?
 			 
-			 //System.out.printf("%c",nameStudent[i]);
+//			 System.out.printf("%c",nameStudent[i]);
 			 
 			 System.out.println(" "+(i+1)+"\t"+nameStudent[i]+"\t"+kuk[i]+"\t"+eng[i]+"\t"+mat[i]+
 					 "\t"+sum[i]+"\t"+ ave1[i]+"\t"+" "+grade +"\t"+" "+myRank[i]);
