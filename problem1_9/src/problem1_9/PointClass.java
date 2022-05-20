@@ -18,7 +18,7 @@ public class PointClass {
 		for(int i=0; i<point.length;i++) {
 			System.out.printf("\n%d반의 학생 수:",i+1);
 			int num = input.nextInt();
-			point[i] = new int[num];
+			point[i] = new int[num]; // 이거 무슨 의미이지?
 			totNumber += num;
 			for(int j=0; j<point[i].length;j++) {
 				System.out.printf("%d반의 %d번의 점수 :",i+1,j+1);
