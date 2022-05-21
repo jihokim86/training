@@ -10,9 +10,9 @@ public class IsoscelesTriangleLB {
 		}
 	}
 	
-//	static void putStar(int n) {
-//		putChar();
-//	}
+	static void putStar(int n) {
+		putChar('*',n);
+	}
 
 	public static void main(String[] args) {
 		//문자 c를 n개를 표시하는 putChar 매소드와 이 매소드를 내부에서 호출해서
@@ -24,11 +24,9 @@ public class IsoscelesTriangleLB {
 		System.out.print("단수는:");
 		int n = input.nextInt();
 		for(int i =1 ; i <=1+(n-1) ; i++) {
-			for (int j = 0; j < i; j++) {
-				putChar('*',n);
-			}
+				putStar(i);
 			System.out.println();
 		}
-		
+		input.close();
 	}
 }
