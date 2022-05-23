@@ -1,5 +1,7 @@
-INDEX VERSION 1.131+D:\jhk_java\training\.metadata\.plugins\org.eclipse.jdt.core
+INDEX VERSION 1.131+C:\training\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
 321452129.index
+<<<<<<< HEAD
 2317461979.index
 340081784.index
 1665273070.index
@@ -8,5 +10,15 @@ INDEX VERSION 1.131+D:\jhk_java\training\.metadata\.plugins\org.eclipse.jdt.core
 4093448575.index
 1680853239.index
 2230985193.index
+=======
+>>>>>>> 04b75d07dd17b1b7e5af843f302071b6749b6511
 4199243092.index
+340081784.index
+3271193799.index
+1680853239.index
 3847288276.index
+2317461979.index
+2370596290.index
+1665273070.index
+4093448575.index
+2230985193.index
