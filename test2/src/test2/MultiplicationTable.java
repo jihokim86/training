@@ -3,12 +3,6 @@ package test2;
 import java.util.Scanner;
 
 public class MultiplicationTable {
-	static int test(int a) {
-		do {
-			System.out.print("´ÜÀÔ·Â:");
-			
-		}while();
-	}
 
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
@@ -25,5 +19,6 @@ public class MultiplicationTable {
 			break;
 		}
 	 }
-	}
+	input.close();
+  }
 }
