@@ -1,0 +1,44 @@
+package problem1_13;
+
+public class Coordinate2 {
+	//필드
+	private double x=0.0;
+	private double y=0.0;
+	
+	//생성자
+	public Coordinate1(){
+	}
+	public Coordinate1(double x, double y) {
+		set(x,y);
+	}
+	public Coordinate1(Coordinate1 c) {
+		this(c.x, c.y);
+	}
+	
+	
+	//매소드
+	double getX() {
+		return x;
+	}
+	double getY() {
+		return y;
+	}
+	
+	void setX(double x) {
+		this.x=x;
+	}
+	void setY(double y) {
+		this.y=y;
+	}
+	
+	void set(double x, double y) {
+		this.x=x; this.y=y;
+	}
+	
+	public boolean equalTo(Coordinate c) {
+		return x==c.x && y==c.y;
+		}
+	public String toString() {
+		return "("+x+","+y+")";
+	}
+}

@@ -1,0 +1,17 @@
+package problem1_13;
+
+import java.util.Scanner;
+
+public class CoordinateTester {
+	public static void main(String[] args) {
+	 
+		Scanner input = new Scanner(System.in);
+		
+		System.out.println("ÁÂÇ¥ p¸¦ ÀÔ·ÂÇÏ¼¼¿ä.");
+		System.out.print("XÁÂÇ¥ : "); double x = input.nextDouble();
+		System.out.print("YÁÂÇ¥ : "); double y = input.nextDouble();
+		
+		Coordinate p = new Coordinate(x, y);
+		System.out.println("p="+p.set(x, y));
+ }
+}
