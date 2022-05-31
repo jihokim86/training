@@ -5,5 +5,10 @@
     <fullyQualifiedTypeName name="problem1_13.Coordinate2"/>
     <fullyQualifiedTypeName name="ex13.Human"/>
     <fullyQualifiedTypeName name="problem1_14.Human"/>
+    <fullyQualifiedTypeName name="ex12.Car"/>
+    <fullyQualifiedTypeName name="java.util.GregorianCalendar"/>
+    <fullyQualifiedTypeName name="problem1_17.Shape"/>
+    <fullyQualifiedTypeName name="problem1_17.AbstLine"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="problem1_17.HorzLine"/>
 </qualifiedTypeNameHistroy>
