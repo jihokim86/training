@@ -9,6 +9,9 @@
     <fullyQualifiedTypeName name="java.util.GregorianCalendar"/>
     <fullyQualifiedTypeName name="problem1_17.Shape"/>
     <fullyQualifiedTypeName name="problem1_17.AbstLine"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="problem1_17.HorzLine"/>
+    <fullyQualifiedTypeName name="problem1_20.ScanStringRev"/>
+    <fullyQualifiedTypeName name="problem1_20.Player"/>
+    <fullyQualifiedTypeName name="java.util.Random"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
 </qualifiedTypeNameHistroy>
