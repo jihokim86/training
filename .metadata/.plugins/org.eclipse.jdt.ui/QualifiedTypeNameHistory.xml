@@ -13,5 +13,7 @@
     <fullyQualifiedTypeName name="problem1_20.ScanStringRev"/>
     <fullyQualifiedTypeName name="problem1_20.Player"/>
     <fullyQualifiedTypeName name="java.util.Random"/>
+    <fullyQualifiedTypeName name="java.lang.Boolean"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
 </qualifiedTypeNameHistroy>
