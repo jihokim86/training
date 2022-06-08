@@ -8,6 +8,7 @@ public class dataRange {
 		//문자와 정수의 데이터 범위를 증명할 수 있는 프로그램을 작성
 		//입력받은 문자와 정수가 범위 내에 있으면 그대로 출력하고 범위를 벗어나면 
 		//오류문구를 출력
+		
 		Scanner input = new Scanner(System.in);
 		
 		System.out.println("입력할 타입은 무엇인가요?");
