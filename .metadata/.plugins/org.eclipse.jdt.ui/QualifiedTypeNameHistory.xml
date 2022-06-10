@@ -16,5 +16,7 @@
     <fullyQualifiedTypeName name="java.lang.Boolean"/>
     <fullyQualifiedTypeName name="java.lang.Integer"/>
     <fullyQualifiedTypeName name="problem2_3.TransferTest"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="problem2_4.Season"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
 </qualifiedTypeNameHistroy>
