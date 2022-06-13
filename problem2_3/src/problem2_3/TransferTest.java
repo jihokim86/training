@@ -13,7 +13,7 @@ public class TransferTest {
 			count++;
 		}
 		
-			int[] value = new int[count];
+		int[] value = new int[count];
 			
 		for(int i=0; i<value.length;i++) {
 			value[i] = y%2;

@@ -18,5 +18,6 @@
     <fullyQualifiedTypeName name="problem2_3.TransferTest"/>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
     <fullyQualifiedTypeName name="problem2_4.Season"/>
+    <fullyQualifiedTypeName name="org.graalvm.compiler.lir.alloc.lsra.LinearScanEliminateSpillMovePhase"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
 </qualifiedTypeNameHistroy>
